@@ -1,1 +1,22 @@
 <!-- gonna put some stuff here -->
+body{
+	padding-bottom: 500px;
+}
+
+.content{
+	margin-top: 60px;
+}
+
+.splash{
+	background-image: url("../img/splash.jpg"); 
+	background-attachment: fixed
+}
+
+#classGoals li{
+	font-size:24px;
+	margin-bottom:10px;
+}
+
+#headline a{
+	text-decoration: none;
+}
